@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "moshis_pvp_addons:blocks/leiwood_planks",
+    "particle": "moshis_pvp_addons:blocks/leiwood_planks"
+  }
+}

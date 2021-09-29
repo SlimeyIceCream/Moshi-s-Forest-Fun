@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "moshis_pvp_addons:blocks/leiwood_log_side",
+    "particle": "moshis_pvp_addons:blocks/leiwood_log_side"
+  }
+}

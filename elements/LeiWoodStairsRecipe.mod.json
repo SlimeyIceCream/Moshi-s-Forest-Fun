@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:LeiWoodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LeiWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:LeiWoodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LeiWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:LeiWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:LeiWoodPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LeiWoodStairs"
+    },
+    "name": "lei_wood_stairs_recipe",
+    "namespace": "mod"
+  }
+}

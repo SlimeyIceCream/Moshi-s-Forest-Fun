@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "moshis_pvp_addons:blocks/top",
+    "up": "moshis_pvp_addons:blocks/top",
+    "north": "moshis_pvp_addons:blocks/top",
+    "east": "moshis_pvp_addons:blocks/top",
+    "south": "moshis_pvp_addons:blocks/top",
+    "west": "moshis_pvp_addons:blocks/top",
+    "particle": "moshis_pvp_addons:blocks/top"
+  }
+}

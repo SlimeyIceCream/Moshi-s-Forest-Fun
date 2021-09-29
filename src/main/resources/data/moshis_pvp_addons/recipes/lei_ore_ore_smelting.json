@@ -1,0 +1,12 @@
+{
+  "group": "moshis_pvp_addons",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "moshis_pvp_addons:lei_ore_ore"
+  },
+  "result": {
+    "item": "moshis_pvp_addons:lei_ore"
+  }
+}

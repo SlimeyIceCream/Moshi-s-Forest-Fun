@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "moshis_pvp_addons:items/leipick_axe"
+  }
+}

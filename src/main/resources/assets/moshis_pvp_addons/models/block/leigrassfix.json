@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "moshis_pvp_addons:blocks/gtrass",
+    "up": "moshis_pvp_addons:blocks/top",
+    "north": "moshis_pvp_addons:blocks/gtrass",
+    "east": "moshis_pvp_addons:blocks/gtrass",
+    "south": "moshis_pvp_addons:blocks/gtrass",
+    "west": "moshis_pvp_addons:blocks/gtrass",
+    "particle": "moshis_pvp_addons:blocks/gtrass"
+  }
+}

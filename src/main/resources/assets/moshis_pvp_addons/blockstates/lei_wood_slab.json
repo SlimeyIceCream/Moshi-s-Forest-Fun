@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "moshis_pvp_addons:block/lei_wood_slab"
+    },
+    "type=top": {
+      "model": "moshis_pvp_addons:block/lei_wood_slab_top"
+    },
+    "type=double": {
+      "model": "moshis_pvp_addons:block/lei_wood_slab_full"
+    }
+  }
+}

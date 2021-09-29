@@ -1,0 +1,13 @@
+{
+  "group": "moshis_pvp_addons",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:leiwood_log"
+    }
+  ],
+  "result": {
+    "item": "moshis_pvp_addons:lei_wood_planks",
+    "count": 4
+  }
+}

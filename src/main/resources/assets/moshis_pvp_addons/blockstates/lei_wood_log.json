@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "moshis_pvp_addons:block/lei_wood_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "moshis_pvp_addons:block/lei_wood_log"
+    },
+    "axis=z": {
+      "model": "moshis_pvp_addons:block/lei_wood_log",
+      "x": 90
+    }
+  }
+}

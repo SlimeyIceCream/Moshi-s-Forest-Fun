@@ -1,0 +1,42 @@
+{
+  "group": "moshis_pvp_addons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "moshis_pvp_addons:lei_ore"
+    },
+    "1": {
+      "item": "moshis_pvp_addons:lei_ore"
+    },
+    "2": {
+      "item": "moshis_pvp_addons:lei_ore"
+    },
+    "3": {
+      "item": "moshis_pvp_addons:lei_ore"
+    },
+    "4": {
+      "item": "moshis_pvp_addons:lei_ore"
+    },
+    "5": {
+      "item": "moshis_pvp_addons:lei_ore"
+    },
+    "6": {
+      "item": "moshis_pvp_addons:lei_ore"
+    },
+    "7": {
+      "item": "moshis_pvp_addons:lei_ore"
+    },
+    "8": {
+      "item": "moshis_pvp_addons:lei_ore"
+    }
+  },
+  "result": {
+    "item": "moshis_pvp_addons:lei_ore_block",
+    "count": 1
+  }
+}

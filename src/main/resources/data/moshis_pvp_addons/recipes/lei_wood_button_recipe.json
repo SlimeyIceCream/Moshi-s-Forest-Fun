@@ -1,0 +1,13 @@
+{
+  "group": "moshis_pvp_addons",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "moshis_pvp_addons:lei_wood_planks"
+    }
+  ],
+  "result": {
+    "item": "moshis_pvp_addons:lei_wood_button",
+    "count": 1
+  }
+}

@@ -1,0 +1,600 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "LeiWoodWood",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_wood_wood"
+    },
+    {
+      "name": "LeiWoodLog",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_wood_log"
+    },
+    {
+      "name": "LeiWoodPlanks",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_wood_planks"
+    },
+    {
+      "name": "LeiWoodLeaves",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_wood_leaves"
+    },
+    {
+      "name": "LeiWoodStairs",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_wood_stairs"
+    },
+    {
+      "name": "LeiWoodSlab",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_wood_slab"
+    },
+    {
+      "name": "LeiWoodFence",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_wood_fence"
+    },
+    {
+      "name": "LeiWoodFenceGate",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_wood_fence_gate"
+    },
+    {
+      "name": "LeiWoodPressurePlate",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_wood_pressure_plate"
+    },
+    {
+      "name": "LeiWoodButton",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_wood_button"
+    },
+    {
+      "name": "LeiWoodItemsTag",
+      "type": "tag",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_wood_items_tag"
+    },
+    {
+      "name": "LeiWoodWoodRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_wood_wood_recipe"
+    },
+    {
+      "name": "LeiWoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_wood_planks_recipe"
+    },
+    {
+      "name": "LeiWoodStairsRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_wood_stairs_recipe"
+    },
+    {
+      "name": "LeiWoodSlabRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_wood_slab_recipe"
+    },
+    {
+      "name": "LeiWoodFenceRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_wood_fence_recipe"
+    },
+    {
+      "name": "LeiWoodFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_wood_fence_gate_recipe"
+    },
+    {
+      "name": "LeiWoodPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_wood_pressure_plate_recipe"
+    },
+    {
+      "name": "LeiWoodButtonRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_wood_button_recipe"
+    },
+    {
+      "name": "LeiWoodStickRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_wood_stick_recipe"
+    },
+    {
+      "name": "LeiPickPickaxe",
+      "type": "tool",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_pick_pickaxe"
+    },
+    {
+      "name": "LeiPickAxe",
+      "type": "tool",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_pick_axe"
+    },
+    {
+      "name": "LeiPickSword",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_pick_sword"
+    },
+    {
+      "name": "LeiPickShovel",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_pick_shovel"
+    },
+    {
+      "name": "LeiPickHoe",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_pick_hoe"
+    },
+    {
+      "name": "LeiPickPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_pick_pickaxe_recipe"
+    },
+    {
+      "name": "LeiPickAxeRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_pick_axe_recipe"
+    },
+    {
+      "name": "LeiPickSwordRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_pick_sword_recipe"
+    },
+    {
+      "name": "LeiPickShovelRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_pick_shovel_recipe"
+    },
+    {
+      "name": "LeiPickHoeRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_pick_hoe_recipe"
+    },
+    {
+      "name": "LeiOre",
+      "type": "item",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_ore"
+    },
+    {
+      "name": "LeiOreOre",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_ore_ore"
+    },
+    {
+      "name": "LeiOreBlock",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_ore_block"
+    },
+    {
+      "name": "LeiOreOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_ore_ore_block_recipe"
+    },
+    {
+      "name": "LeiOreBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_ore_block_ore_recipe"
+    },
+    {
+      "name": "LeiOreOreSmelting",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_ore_ore_smelting"
+    },
+    {
+      "name": "LeiOrePickaxe",
+      "type": "tool",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_ore_pickaxe"
+    },
+    {
+      "name": "LeiOreAxe",
+      "type": "tool",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_ore_axe"
+    },
+    {
+      "name": "LeiOreSword",
+      "type": "tool",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_ore_sword"
+    },
+    {
+      "name": "LeiOreShovel",
+      "type": "tool",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_ore_shovel"
+    },
+    {
+      "name": "LeiOreHoe",
+      "type": "tool",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_ore_hoe"
+    },
+    {
+      "name": "LeiOrePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_ore_pickaxe_recipe"
+    },
+    {
+      "name": "LeiOreAxeRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_ore_axe_recipe"
+    },
+    {
+      "name": "LeiOreSwordRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_ore_sword_recipe"
+    },
+    {
+      "name": "LeiOreShovelRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_ore_shovel_recipe"
+    },
+    {
+      "name": "LeiOreHoeRecipe",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_ore_hoe_recipe"
+    },
+    {
+      "name": "LeiOreArmor",
+      "type": "armor",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_ore_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "LeiOreArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_ore_armor_helmet_recipe"
+    },
+    {
+      "name": "LeiOreArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_ore_armor_body_recipe"
+    },
+    {
+      "name": "LeiOreArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_ore_armor_leggings_recipe"
+    },
+    {
+      "name": "LeiOreArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_ore_armor_boots_recipe"
+    },
+    {
+      "name": "LeiTable",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_table"
+    },
+    {
+      "name": "LeiForestyr",
+      "type": "biome",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lei_forestyr"
+    },
+    {
+      "name": "TreeSapp",
+      "type": "plant",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tree_sapp"
+    },
+    {
+      "name": "GiveLeiSwordCommandExecuted",
+      "type": "procedure",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "give_lei_sword_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GiveLeiSword",
+      "type": "command",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "give_lei_sword"
+    },
+    {
+      "name": "Leigrassfix",
+      "type": "block",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leigrassfix"
+    },
+    {
+      "name": "Dirt",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.moshis_pvp_addons.lei_ore_armor_boots": "LeiOre Boots",
+      "item.moshis_pvp_addons.lei_pick_pickaxe": "LeiPick Pickaxe",
+      "block.moshis_pvp_addons.dirt": "Dirt",
+      "block.moshis_pvp_addons.lei_wood_stairs": "LeiWood Stairs",
+      "block.moshis_pvp_addons.lei_ore_block": "Block of LeiOre",
+      "block.moshis_pvp_addons.lei_wood_fence_gate": "LeiWood Fence Gate",
+      "item.moshis_pvp_addons.lei_pick_sword": "LeiPick Sword",
+      "item.moshis_pvp_addons.lei_ore_pickaxe": "LeiOre Pickaxe",
+      "biome.moshis_pvp_addons.lei_forestyr": "Lei Forestyr",
+      "item.moshis_pvp_addons.lei_pick_shovel": "LeiPick Shovel",
+      "block.moshis_pvp_addons.lei_wood_wood": "LeiWood Wood",
+      "item.moshis_pvp_addons.lei_ore": "LeiOre",
+      "item.moshis_pvp_addons.lei_ore_armor_leggings": "LeiOre Leggings",
+      "block.moshis_pvp_addons.lei_wood_log": "LeiWood Log",
+      "block.moshis_pvp_addons.lei_wood_slab": "LeiWood Slab",
+      "item.moshis_pvp_addons.lei_ore_armor_helmet": "LeiOre Helmet",
+      "item.moshis_pvp_addons.lei_pick_axe": "LeiPick Axe",
+      "block.moshis_pvp_addons.tree_sapp": "Tree Sapp",
+      "item.moshis_pvp_addons.lei_ore_shovel": "LeiOre Shovel",
+      "block.moshis_pvp_addons.leigrassfix": "Leigrassfix",
+      "item.moshis_pvp_addons.lei_ore_hoe": "LeiOre Hoe",
+      "block.moshis_pvp_addons.lei_wood_pressure_plate": "LeiWood Pressure Plate",
+      "block.moshis_pvp_addons.lei_wood_leaves": "LeiWood Leaves",
+      "item.moshis_pvp_addons.lei_pick_hoe": "LeiPick Hoe",
+      "block.moshis_pvp_addons.lei_wood_button": "LeiWood Button",
+      "block.moshis_pvp_addons.lei_wood_fence": "LeiWood Fence",
+      "block.moshis_pvp_addons.lei_ore_ore": "LeiOre Ore",
+      "item.moshis_pvp_addons.lei_ore_armor_chestplate": "LeiOre Chestplate",
+      "item.moshis_pvp_addons.lei_ore_axe": "LeiOre Axe",
+      "item.moshis_pvp_addons.lei_ore_sword": "LeiOre Sword",
+      "block.moshis_pvp_addons.lei_wood_planks": "LeiWood Planks"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "moshis_pvp_addons",
+    "modName": "Moshi\u0027s Pvp Addons",
+    "version": "1.0.0",
+    "author": "moshi, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.moshispvpaddons",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "moshis_pvp_addons:items/leiore_gem"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "moshis_pvp_addons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "moshis_pvp_addons:lei_ore"
+    },
+    "2": {
+      "item": "moshis_pvp_addons:lei_ore"
+    },
+    "3": {
+      "item": "moshis_pvp_addons:lei_ore"
+    },
+    "5": {
+      "item": "moshis_pvp_addons:lei_ore"
+    }
+  },
+  "result": {
+    "item": "moshis_pvp_addons:lei_ore_armor_boots",
+    "count": 1
+  }
+}

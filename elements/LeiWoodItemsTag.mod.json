@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:LeiWoodWood"
+      },
+      {
+        "value": "CUSTOM:LeiWoodLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "leiwood_log",
+    "namespace": "forge"
+  }
+}

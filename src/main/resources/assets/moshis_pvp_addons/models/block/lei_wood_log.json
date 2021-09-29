@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "moshis_pvp_addons:blocks/leiwood_log_top",
+    "up": "moshis_pvp_addons:blocks/leiwood_log_top",
+    "north": "moshis_pvp_addons:blocks/leiwood_log_side",
+    "east": "moshis_pvp_addons:blocks/leiwood_log_side",
+    "south": "moshis_pvp_addons:blocks/leiwood_log_side",
+    "west": "moshis_pvp_addons:blocks/leiwood_log_side",
+    "particle": "moshis_pvp_addons:blocks/leiwood_log_top"
+  }
+}

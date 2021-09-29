@@ -1,0 +1,6 @@
+{
+  "parent": "block/pressure_plate_down",
+  "textures": {
+    "texture": "moshis_pvp_addons:blocks/leiwood_planks"
+  }
+}

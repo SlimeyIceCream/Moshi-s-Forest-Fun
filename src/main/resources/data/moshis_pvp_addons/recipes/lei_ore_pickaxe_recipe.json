@@ -1,0 +1,30 @@
+{
+  "group": "moshis_pvp_addons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "moshis_pvp_addons:lei_ore"
+    },
+    "1": {
+      "item": "moshis_pvp_addons:lei_ore"
+    },
+    "2": {
+      "item": "moshis_pvp_addons:lei_ore"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "moshis_pvp_addons:lei_ore_pickaxe",
+    "count": 1
+  }
+}

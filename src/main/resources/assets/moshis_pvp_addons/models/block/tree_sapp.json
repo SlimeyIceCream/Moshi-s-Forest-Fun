@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "moshis_pvp_addons:blocks/sappling",
+    "particle": "moshis_pvp_addons:blocks/sappling"
+  }
+}

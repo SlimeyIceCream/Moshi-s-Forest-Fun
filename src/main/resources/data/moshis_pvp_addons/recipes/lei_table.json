@@ -1,0 +1,26 @@
+{
+  "group": "moshis_pvp_addons",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "moshis_pvp_addons:lei_wood_planks"
+    },
+    "1": {
+      "item": "moshis_pvp_addons:lei_wood_planks"
+    },
+    "2": {
+      "item": "moshis_pvp_addons:lei_wood_planks"
+    },
+    "3": {
+      "item": "moshis_pvp_addons:lei_wood_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:crafting_table",
+    "count": 2
+  }
+}
